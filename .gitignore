@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Model (we download it via script, don't commit weights!)
+model/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
