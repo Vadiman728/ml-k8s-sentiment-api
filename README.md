@@ -81,8 +81,11 @@ kubectl get pods  # See 5 running pods!
 
 ## 🖼️ Screenshots
 ![Swagger UI (Auto-generated Docs)](screens/2025-10-06_02-32-16.png)
+
 Swagger UI (Auto-generated Docs
+
 ![Kubernetes Pods (Scaled & Healthy)](screens/2025-10-06_02-41-43.png)
+
 Kubernetes Pods (Scaled & Healthy)
 
 ## 📁 Project Structure
